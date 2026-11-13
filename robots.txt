@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /avaliar
+Sitemap: https://vivalavitta.com.br/sitemap.xml
